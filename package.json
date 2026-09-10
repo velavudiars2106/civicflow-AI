@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@huggingface/inference": "^4.13.28",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
